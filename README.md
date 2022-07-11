@@ -2,8 +2,8 @@
 Practicing using PowerShell for automation.  
 
 Current Goals:  
-    Better understand interacting with github from the command line.  
-    Open/Close some applications  
-    Send and email??  
+&nbsp;&nbsp;&nbsp;&nbsp;Better understand interacting with github from the command line.  
+&nbsp;&nbsp;&nbsp;&nbsp;Open/Close some applications  
+&nbsp;&nbsp;&nbsp;&nbsp;Send and email??  
 
 Completed Goals:
