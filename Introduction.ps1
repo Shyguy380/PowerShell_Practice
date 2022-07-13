@@ -52,7 +52,7 @@ To fix that you may just need to hit TAB 2 more times or so
 Start-Sleep -seconds 1
 
 #Selecting the new open windows just in case
-$getYoutube = New-Object -ComObject wscript.shell;
+$getYoutube = New-Object -ComObject wscript.shell
 $getYoutube.AppActivate('New Tab - Google Chrome')
 
 #Typing Youtube and pressing enter
